@@ -1,0 +1,16 @@
+.seat.free {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    background-color: var(--background-blue);
+}
+
+.seat.taken {
+    background-color: var(--light-gray) !important;
+}
+
+.seat a {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}

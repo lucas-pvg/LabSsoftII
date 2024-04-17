@@ -1,0 +1,9 @@
+.confirm {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.confirm .row {
+    justify-content: space-between;
+}
