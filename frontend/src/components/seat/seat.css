@@ -1,3 +1,10 @@
+.seat {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    background-color: var(--background-blue);
+}
+
 .seat.free {
     height: 50px;
     width: 50px;
@@ -6,6 +13,9 @@
 }
 
 .seat.taken {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
     background-color: var(--light-gray) !important;
 }
 

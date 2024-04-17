@@ -20,7 +20,7 @@ function BookPage() {
   
   return (
     <div className='grid'>
-      <h1 className='title'>Escolha seu assento</h1>
+      <h1 className="title">Escolha seu Assento</h1>
 
       <div className='row'>
         {
